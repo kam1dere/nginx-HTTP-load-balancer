@@ -1,6 +1,6 @@
 # nginx HTTP load balancer
 Использование nginx в качестве балансировщика нагрузки.
-
+![Image alt](https://github.com/{kam1dere}/{git@github.com:kam1dere/nginx-HTTP-load-balancer.git}/raw/{master}/{nginx}/nginx_mem.png)
 
 # Описание проекта
 - В докере поднимается 6 инстансов приложения, после них поднимается nginx
