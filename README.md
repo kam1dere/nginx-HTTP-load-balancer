@@ -12,7 +12,7 @@
 
 # Установка и запуск
 + Склонировать репозиторий с Github
-'git clone git@github.com:kam1dere/Mortgage-calculator.git'
+'git@github.com:kam1dere/nginx-HTTP-load-balancer.git'
 + Перейти в директорию проекта
 + Запустить скрипты
 
